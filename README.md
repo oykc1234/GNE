@@ -1,5 +1,9 @@
 Graph Neural Evolution (GNE) - Code Repository
 
+
+![image](https://github.com/user-attachments/assets/66547761-84e2-4971-8e32-b8e4acf78e0a)
+
+
 Overview
 
 This repository will host the code for Graph Neural Evolution (GNE), a novel evolutionary algorithm (EA) inspired by the intrinsic duality between Graph Neural Networks (GNNs) and EAs. The concept bridges two traditionally distinct fields, proposing a method that models individuals as nodes in a graph while incorporating frequency-domain filters to enhance global exploration and local exploitation. GNE aggregates both high-frequency (diversity-enhancing) and low-frequency (stability-promoting) information, transforming evolutionary algorithms into interpretable and tunable mechanisms in the frequency domain.
