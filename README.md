@@ -33,7 +33,9 @@ Contact Information
 For questions, suggestions, or collaborations, feel free to reach out to the authors:
 
 Kaichen Ouyang (Department of Mathematics, University of Science and Technology of China)
+
 Email: oykc@mail.ustc.edu.cn
 
 Shengwei Fu (Key Laboratory of Advanced Manufacturing Technology, Guizhou University)
+
 Email: shengwei_fu@163.com
