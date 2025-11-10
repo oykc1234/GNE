@@ -43,7 +43,3 @@ The code includes implementations of 9 classic optimization functions:
 | F9 | Levy | Multimodal, non-convex |
 
 
-
-```matlab
-% Clone the repository and add to MATLAB path
-addpath(genpath('GNE_Algorithm'));
