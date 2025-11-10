@@ -8,6 +8,9 @@ Evolutionary algorithms (EAs) are optimization algorithms that simulate natural 
 
 To address these challenges, we propose a novel evolutionary algorithm framework called **Graph Neural Evolution (GNE)**. Unlike traditional EAs, GNE represents the population as a graph, where nodes correspond to individuals, and edges capture their relationships, thus effectively leveraging global information. Meanwhile, GNE utilizes spectral graph neural networks (GNNs) to decompose evolutionary signals into their frequency components and designs a filtering function to fuse these components. High-frequency components capture diverse global information, while low-frequency components capture more consistent information.
 
+<img width="2042" height="941" alt="image" src="https://github.com/user-attachments/assets/3f2356e6-f816-4d1a-8be1-3fb376cf3dd7" />
+
+
 ## 🎯 Key Features
 
 - **Graph-based Population Representation**: Models individuals as nodes and their relationships as edges
