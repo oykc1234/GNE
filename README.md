@@ -46,3 +46,4 @@ The code includes implementations of 9 classic optimization functions:
 | F9 | Levy | Multimodal, non-convex |
 
 
+If you have any questions about the code, please send an email to oykc@mail.ustc.edu.cn or hudy@bmie.neu.edu.cn.
